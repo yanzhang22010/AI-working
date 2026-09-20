@@ -6,19 +6,19 @@
 
 | 范围 | 原始资产 | 个人库位置 | 状态 |
 | --- | --- | --- | --- |
-| 体验流程 | `ux-requirements` | `skills/ux-requirements` | 待导入原件 |
-| 需求检查 | `spec-review` | `skills/spec-review` | 待导入原件 |
-| 需求澄清 | `spec-clarify` | `skills/spec-clarify` | 待导入原件 |
-| 设计策略 | `design-strategy` | `skills/design-strategy` | 待导入原件 |
-| 概念原型 | `concept-prototype-v5` | `skills/concept-prototype-v5` | 待导入原件 |
-| UX 评审 | `design-review` | `skills/design-review` | 待导入原件 |
-| 国际化 UI 评审 | `global-ui-review` | `skills/global-ui-review` | 待导入原件 |
-| UX 文案 | `ux-copywriting-analyzer` | `skills/ux-copywriting-analyzer` | 待导入原件 |
-| 竞品分析 | `competitive-analysis` | `skills/competitive-analysis` | 待导入原件 |
-| 交付前检查 | `l-precheck` | `skills/l-precheck` | 待导入原件 |
-| Figma 动效 | `figma-motion-video` | `skills/figma-motion-video` | 待导入原件 |
-| UI 生成 | `ui-generation-workflow` | `skills/ui-generation-workflow` | 待导入原件 |
-| 业务流程 | Trip.Planner LUI Pipeline | `skills/trip-planner-lui-pipeline` | 待导入原件 |
+| 体验流程 | `ux-requirements` | `skills/ux-requirements` | 个人版已重建；待导入原件 |
+| 需求检查 | `spec-review` | `skills/spec-review` | 个人版已重建；待导入原件 |
+| 需求澄清 | `spec-clarify` | `skills/spec-clarify` | 个人版已重建；待导入原件 |
+| 设计策略 | `design-strategy` | `skills/design-strategy` | 个人版已重建；待导入原件 |
+| 概念原型 | `concept-prototype-v5` | `skills/concept-prototype-v5` | 个人版已重建；待导入原件 |
+| UX 评审 | `design-review` | `skills/design-review` | 个人版已重建；待导入原件 |
+| 国际化 UI 评审 | `global-ui-review` | `skills/global-ui-review` | 个人版已重建；待导入原件 |
+| UX 文案 | `ux-copywriting-analyzer` | `skills/ux-copywriting-analyzer` | 个人版已重建；待导入原件 |
+| 竞品分析 | `competitive-analysis` | `skills/competitive-analysis` | 个人版已重建；待导入原件 |
+| 交付前检查 | `l-precheck` | `skills/l-precheck` | 个人版已重建；待导入原件 |
+| Figma 动效 | `figma-motion-video` | `skills/figma-motion-video` | 个人版已重建；待导入原件 |
+| UI 生成 | `ui-generation-workflow` | `skills/ui-generation-workflow` | 个人版已重建；待导入原件 |
+| 业务流程 | Trip.Planner LUI Pipeline | `skills/trip-planner-lui-pipeline` | 个人版已重建；待导入原件 |
 | 知识资产 | AI Showcase / 飞书 / AgentArk | `knowledge/` | 待按主题导入 |
 
 ## 导入规则
